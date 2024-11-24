@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on:<br>1.Diabeties Prediction Model:Developing a model which can predict that a person have diabeties or not by scanning a image of patient's eye.<br>2. Smart India Hackathon: Participating in the hackathon, focusing on creating impactful solutions in the agriculture field.<br><br>🌱 I’m currently learning more about Deep learning,neural networks,image segmentation, computer vision and AI and its usage in different fields<br><br>⚡ Fun fact: I am a junior year B.Tech (C.S.E AI_ML) student from UIETT with a passion for machine learning and data science.<br><br>
+🔭I'm currently working on:<br>1.Diabeties Prediction Model:Developing a model which can predict that a person have diabeties or not by scanning a image of patient's eye.<br><br>🌱 I’m currently learning more about Deep learning,neural networks,image segmentation, computer vision and AI and its usage in different fields<br><br>⚡ Fun fact: I am a junior year B.Tech (C.S.E AI_ML) student from UIETT with a passion for machine learning and data science.<br><br>
 
 
 ## 🌐 Socials:
