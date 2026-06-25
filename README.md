@@ -10,9 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=I-Deepanshu&label=Profile%20views&color=00d4ff&style=flat" alt="Profile views" />
-
-<br/><br/>
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-I--Deepanshu-0a0e1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/I-Deepanshu)
 &nbsp;
@@ -237,7 +235,5 @@ Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national ra
 </table>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=I-Deepanshu&label=Total%20Profile%20Views&color=00d4ff&style=flat)
 
 </div>
