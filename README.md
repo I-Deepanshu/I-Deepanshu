@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg" alt="Deepanshu Shimar — AI & ML Engineer"/>
+<img width="100%" src="./b.png" alt="Deepanshu Shimar — AI & ML Engineer"/>
 
 </div>
 
