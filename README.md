@@ -144,6 +144,16 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 
 ---
 
+### 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/deepanshusnpt?theme=dark&font=Fira+Code&ext=contest&border=0&radius=20)](https://leetcode.com/deepanshusnpt)
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
@@ -201,6 +211,13 @@ Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national ra
 |---|-------|-------|-|
 | 1 | **Solar Panel Degradation Prediction using ML** — Stacked ANN, XGBoost & RF on 480-day UK PV data; best ensemble R² > 0.96 | ResearchSquare | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchsquare.com/article/rs-6297947/v1) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Solar-Panel-Degradation-Predictor) |
 | 2 | **Fuel Cell Degradation Prediction Using ML Models** — Extra Trees Regressor (MAE=0.00099, R²=0.996) on PEM Fuel Cell Dataset | ResearchSquare | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchsquare.com/article/rs-6710108/v1) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor) |
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG POSTS:START -->
+<!-- BLOG POSTS:END -->
 
 ---
 
