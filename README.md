@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=I-Deepanshu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/I-Deepanshu)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=I-Deepanshu&theme=algolia&no-frame=true&column=6&margin-w=8)](https://github.com/I-Deepanshu)
 
 </div>
 
@@ -121,14 +121,6 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 </table>
 
 ---
-
-### 📅 Contributions in the Last Year
-
-<div align="center">
-
-![Contribution Calendar](https://ghchart.rshah.org/00d4ff/I-Deepanshu)
-
-</div>
 
 ### 📈 Contribution Graph
 
