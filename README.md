@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### AI & ML Engineer &nbsp;·&nbsp; NLP &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Building Intelligent Systems &nbsp;⚡
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=%3C+Build.+Learn.+Innovate.+Repeat.+%2F%3E;AI+%26+ML+Engineer+%7C+Researcher+%7C+Problem+Solver;NLP+%7C+LLMs+%7C+Computer+Vision+%7C+MLOps;From+Research+to+Real-World+Impact+%E2%9A%A1)](https://github.com/I-Deepanshu)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-I--Deepanshu-0a0e1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/I-Deepanshu)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu%20Shimar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-shimar-704633256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshushimar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshushimar)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-deepanshusnpt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusnpt@gmail.com)
 
@@ -27,6 +27,16 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-deepanshusnpt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/deepanshusnpt)
 &nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7709--7095-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7709-7095)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=I-Deepanshu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/I-Deepanshu)
 
 </div>
 
@@ -87,8 +97,6 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" title="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" title="Linux"/>
 
-> *These stats are generated dynamically from my GitHub profile.*
-
 </td>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -120,7 +128,21 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=I-Deepanshu&bg_color=0a0e1a&color=00d4ff&line=3b82f6&point=ffffff&area=true&hide_border=true&area_color=1e3a5f)](https://github.com/I-Deepanshu)
 
-> *Building in public, one commit at a time ⚡*
+</div>
+
+### 💻 Commit Activity
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Deepanshu&theme=github_dark)](https://github.com/I-Deepanshu)
+
+<br/>
+
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-Deepanshu&theme=github_dark)](https://github.com/I-Deepanshu)
+&nbsp;
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Deepanshu&theme=github_dark)](https://github.com/I-Deepanshu)
+&nbsp;
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=I-Deepanshu&theme=github_dark&utcOffset=5.5)](https://github.com/I-Deepanshu)
 
 </div>
 
@@ -137,7 +159,7 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 
 RAG system mapping FIRs to **500+ IPC / 350+ BNS** sections at **92% accuracy**. Cut manual review by **60%** and response time by **40%**.
 
-[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/JARVIS-JI/IPCBNSPredictorRAG-basedLegalAISystem)
+[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/JARVIS-JI/IPCBNSPredictorRAG-basedLegalAISystem)
 
 </td>
 <td width="50%" valign="top">
@@ -159,13 +181,17 @@ End-to-end pipeline: ingestion → BERT quality (Q1–Q4) → grammar correction
 
 Benchmarked 7 transformer models on 717 leaf images. **97% accuracy** (Swin), **94.86%** (MobileViT, 5.6M params). Grad-CAM interpretability.
 
+[![Code](https://img.shields.io/badge/GitHub-Repo-0a0e1a?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/I-Deepanshu/Potato-Disease-Detection)
+
 </td>
 <td width="50%" valign="top">
 
-**🛒 Amazon ML Challenge — Multimodal Price Prediction**
+**🛒 Amazon ML Challenge 2025 — Multimodal Price Prediction**
 > `PyTorch` `Qwen3` `DINOv2` `Cross-Attention`
 
 Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national rank**, SMAPE 50–52% via 5-fold CV + ensemble stacking.
+
+[![Code](https://img.shields.io/badge/GitHub-Repo-0a0e1a?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/I-Deepanshu/AML2025)
 
 </td>
 </tr>
@@ -178,7 +204,7 @@ Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national ra
 | # | Paper | Venue | |
 |---|-------|-------|-|
 | 1 | **Solar Panel Degradation Prediction using ML** — Stacked ANN, XGBoost & RF on 480-day UK PV data; best ensemble R² > 0.96 | ResearchSquare | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchsquare.com/article/rs-6297947/v1) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Solar-Panel-Degradation-Predictor) |
-| 2 | **Fuel Cell Degradation Prediction Using ML Models** — Extra Trees Regressor (MAE=0.00099, R²=0.996) on PEM Fuel Cell Dataset | ResearchGate | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchgate.net/publication/392034748_Fuel_Cell_Degradation_Prediction_Using_Machine_Learning_Models_A_Study_on_Proton_Exchange_Membrane_PEM_Fuel_Cell_Dataset) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor) |
+| 2 | **Fuel Cell Degradation Prediction Using ML Models** — Extra Trees Regressor (MAE=0.00099, R²=0.996) on PEM Fuel Cell Dataset | ResearchSquare | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchsquare.com/article/rs-6710108/v1) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor) |
 
 ---
 
