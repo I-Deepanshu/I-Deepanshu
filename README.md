@@ -206,8 +206,7 @@ Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national ra
 
 ### ✍️ Latest Blog Posts
 
-<!-- BLOG POSTS:START -->
-<!-- BLOG POSTS:END -->
+<!-- BLOG POSTS:START -->- [Unlocking Multimodal Magic: Inspecting Rich Documents with Gemini and RAG on Google Cloud](https://medium.com/@deepanshusnpt/unlocking-multimodal-magic-inspecting-rich-documents-with-gemini-and-rag-on-google-cloud-51f5459a6589?source=rss-8bbca7f561c2------2) — 5959 DD, YYYY- [Building Real-World AI Applications with Gemini and Imagen on Vertex AI](https://medium.com/@deepanshusnpt/building-real-world-ai-applications-with-gemini-and-imagen-on-vertex-ai-8a8a638b9298?source=rss-8bbca7f561c2------2) — 5555 DD, YYYY- [Mastering Prompt Design in Vertex AI: My Journey with Gemini and Generative AI #GenAIExchange](https://medium.com/@deepanshusnpt/mastering-prompt-design-in-vertex-ai-my-journey-with-gemini-and-generative-ai-genaiexchange-6228f6952a66?source=rss-8bbca7f561c2------2) — 5050 DD, YYYY- [Day 30: The Future of Deep Learning: Challenges and Opportunities](https://medium.com/@deepanshusnpt/day-30-the-future-of-deep-learning-challenges-and-opportunities-cc7615679c4d?source=rss-8bbca7f561c2------2) — 3737 DD, YYYY- [Day 29: Responsible AI — Building Ethical and Socially Beneficial AI Systems](https://medium.com/@deepanshusnpt/day-29-responsible-ai-building-ethical-and-socially-beneficial-ai-systems-82bd9c042f4a?source=rss-8bbca7f561c2------2) — 3737 DD, YYYY<!-- BLOG POSTS:END -->
 
 ---
 
