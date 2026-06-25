@@ -137,7 +137,7 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 
 RAG system mapping FIRs to **500+ IPC / 350+ BNS** sections at **92% accuracy**. Cut manual review by **60%** and response time by **40%**.
 
-[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/deepanshu)
+[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/JARVIS-JI/IPCBNSPredictorRAG-basedLegalAISystem)
 
 </td>
 <td width="50%" valign="top">
