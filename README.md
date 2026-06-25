@@ -32,16 +32,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=I-Deepanshu&theme=algolia&no-frame=true&column=6&margin-w=8)](https://github.com/I-Deepanshu)
-
-</div>
-
----
-
 <table>
 <tr>
 
@@ -248,6 +238,6 @@ Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national ra
 
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=I-Deepanshu&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=I-Deepanshu&label=Total%20Profile%20Views&color=00d4ff&style=flat)
 
 </div>
