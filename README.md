@@ -144,16 +144,6 @@ Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-
 
 ---
 
-### 🧩 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/deepanshusnpt?theme=dark&font=Fira+Code&ext=contest&border=0&radius=20)](https://leetcode.com/deepanshusnpt)
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <table>
