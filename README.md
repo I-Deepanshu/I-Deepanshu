@@ -1,195 +1,112 @@
-
-
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/I-Deepanshu)
-
-<h1 align="center">Hi there 👋, I'm Deepanshu</h1>
-<h3 align="center">AI/ML Engineer | Research Enthusiast | Building Production-Grade ML Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=I-Deepanshu&label=Profile%20views&color=0e75b6&style=flat" alt="I-Deepanshu" />
-</p>
-
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-deepanshusnpt%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deepanshusnpt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepanshu-shimar-704633256)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@deepanshusnpt)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/deepanshusnpt)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7709--7095-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0005-7709-7095)
+
+<img width="100%" src="./banner.svg" alt="Deepanshu Shimar — AI & ML Engineer"/>
 
 </div>
 
-<br>
+<div align="center">
 
-## 🚀 About Me
+### AI & ML Engineer &nbsp;·&nbsp; NLP &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Building Intelligent Systems &nbsp;⚡
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br/>
 
-I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for building production-grade ML systems. I specialize in **deep learning**, **computer vision**, **NLP**, and **MLOps**, with hands-on experience deploying real-world AI solutions.
+<img src="https://komarev.com/ghpvc/?username=I-Deepanshu&label=Profile%20views&color=00d4ff&style=flat" alt="Profile views" />
 
-- 🔭 Currently working on **AI-powered cancer detection systems** and **large-scale ML pipelines**
-- 🔬 **Research Intern** at **NIT Warangal** | **ML Intern** at **DRDO**
-- 🌱 Learning advanced **Deep Learning, Neural Networks, Computer Vision & LLMs**
-- 🏆 **Microsoft Learn Student Ambassador** | **Top-60 Healthcare AI Hackathon Finalist**
-- 📝 Published researcher with **2 ML research papers** on degradation prediction
-- 💬 Ask me about **PyTorch, TensorFlow, LangChain, RAG Systems, MLOps, Computer Vision**
-- 📫 Reach me at **deepanshusnpt@gmail.com**
-- ⚡ Fun fact: **I build production ML systems that solve real-world problems!**
+<br/><br/>
 
-<br clear="right"/>
+[![GitHub](https://img.shields.io/badge/GitHub-I--Deepanshu-0a0e1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/I-Deepanshu)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu%20Shimar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-shimar-704633256)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-deepanshusnpt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusnpt@gmail.com)
 
----
+<br/>
 
-## 💼 Professional Experience
+[![Medium](https://img.shields.io/badge/Medium-@deepanshusnpt-12100E?style=for-the-badge&logo=medium&logoColor=00d4ff)](https://medium.com/@deepanshusnpt)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-deepanshusnpt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/deepanshusnpt)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7709--7095-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7709-7095)
 
-### 🔬 Research Intern | NIT Warangal
-**Sep 2025 - Jan 2026**
-- 🌾 Developed end-to-end ML pipeline for **crop output forecasting** across **572 Indian districts**
-- 📊 Deployed **LightGBM model** achieving **R² = 0.906, MAE = 17.65 kg/ha** with **40× faster training**
-- 🛰️ Processed geospatial datasets (NASA POWER, MODIS, SoilGrids) with **35 engineered features**
-- 🎯 Established past crop outputs as dominant predictors through comprehensive feature importance analysis
-
-### 🛡️ ML Intern | Defence Research and Development Organisation (DRDO)
-**June 2025 - Aug 2025 | Delhi, India**
-- 🔍 Built **ML-based detection system** for **biochemical threat analysis** using sensor data
-- 🤖 Implemented **ensemble models** for anomaly detection with **real-time inference** capabilities
-- 🚀 Collaborated with defense research teams on intelligent threat identification systems
-- ✅ Achieved **high-accuracy threat signature identification** for national security applications
+</div>
 
 ---
-
-## 🏗️ Featured Projects
-
-### ⚖️ [IPC & BNS Predictor](https://huggingface.co/spaces/deepanshu) - RAG-based Legal AI System
-**July 2025 | Tech Stack:** LangChain, FAISS, Llama, Mistral, REST API
-
-- 🎯 Engineered production-grade **RAG pipeline** mapping FIRs to **500+ IPC & 350+ BNS** legal sections
-- 📈 Achieved **92% classification accuracy** with automated legal case classification workflow
-- ⚡ Reduced manual review time by **60%** and response times by **40%** for law enforcement
-- 🚀 Deployed REST API with **LLM inference endpoints** processing official government PDF knowledge base
-
-### 📄 [Rechk](https://rechk.in) - AI Research Paper Classifier
-**March 2025 - June 2025 | Tech Stack:** RoBERTa, Sentence-BERT, PyTorch, CNN, Hugging Face
-
-- 🔬 Designed end-to-end production AI pipeline with **fine-tuned transformers** achieving **86% journal-scope accuracy**
-- 🖼️ Implemented **CNN-based image classification** for document quality assessment (DPI checks)
-- 🤖 Orchestrated **multi-modal PyTorch workflows** for AI-content detection and plagiarism analysis
-- ⚡ Serving **250 PDFs/day** at **< 2 min latency** via optimized Hugging Face Inference Endpoints
-
-### 🏥 [Insight Onco](https://synapse-gules.vercel.app/) - AI Healthcare System
-**Jan 2025 - Feb 2025 | Tech Stack:** CNN, PyTorch, Computer Vision, GDPR/HIPAA
-
-- 🎯 Built **computer vision system** for cancer detection achieving **92% classification accuracy**
-- 🔒 Implemented **secure model serving** infrastructure with **GDPR & HIPAA-compliant** deployment
-- 🏆 Secured **Top-60 position (Semi-Finalist)** in Predictive AI in Healthcare with FHIR® International Hackathon
-- 📉 Reduced data breach risk by **30%** through enhanced security measures
-
-⚠️ **Note:** Some advanced ML projects are in private repositories, undergoing research validation and production optimization! 🚀
-
----
-
-## 📚 Research Publications
-
-<img align="right" alt="Research" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-1. **📄 Solar Panel Degradation Prediction using Machine Learning: A Comprehensive Approach** 
-   - Status: Preprint | [Read Paper](https://www.researchsquare.com/article/rs-6297947/v1) | [GitHub Repo](https://github.com/I-Deepanshu/Solar-Panel-Degradation-Predictor)
-   - Machine learning models for predictive maintenance of solar energy systems
-
-2. **⚡ Fuel Cell Degradation Prediction Using Machine Learning Models** 
-   - Focus: Proton Exchange Membrane (PEM) Fuel Cell Dataset
-   - Status: Preprint | [Read Paper](https://www.researchgate.net/publication/392034748_Fuel_Cell_Degradation_Prediction_Using_Machine_Learning_Models_A_Study_on_Proton_Exchange_Membrane_PEM_Fuel_Cell_Dataset) | [GitHub Repo](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor)
-   - Advanced ML techniques for fuel cell lifecycle prediction
-
-<br clear="right"/>
-
----
-
-## 🛠️ Technical Arsenal
-
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</p>
-
-<h3 align="left">AI/ML & Deep Learning:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-</p>
-
-<h3 align="left">NLP & LLMs:</h3>
-<p align="left">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="45" height="45"/>
-</p>
-
-<h3 align="left">Databases & Cloud:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="45" height="45"/>
-</p>
-
-<h3 align="left">Tools & Version Control:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-</p>
-
-### 🎯 Core Competencies
 
 <table>
 <tr>
-<td width="50%">
 
-**Deep Learning & Computer Vision**
-- CNNs, Transformers, Vision Transformers (ViT)
-- RoBERTa, BERT, Sentence-BERT
-- Image Classification & Feature Extraction
-- Object Detection & Segmentation
+<!-- ===== ABOUT ME ===== -->
+<td valign="top" width="38%">
 
-</td>
-<td width="50%">
+### 🤖 About Me
 
-**NLP & Large Language Models**
-- LangChain, LangSmith, FAISS
-- RAG Systems & Vector Databases
-- Fine-tuning LLMs (Llama, Mistral, GPT)
-- Prompt Engineering & Model Optimization
+Hi! I'm a **B.Tech CS (AI & ML)** graduate passionate about building production-grade intelligent systems that solve real-world problems.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**MLOps & Deployment**
-- Model Serving & REST APIs
-- Docker & Cloud Deployment (AWS, GCP)
-- Hugging Face Inference Endpoints
-- Low-latency Inference Optimization
+- 🤖 **ML Engineer** at **Rechk** — BERT paper intelligence (82.4% acc, ROC-AUC 0.946)
+- 🛰️ **Research Intern** at **NIT Warangal** — Crop yield ML (LightGBM R²=0.906)
+- 🛡️ **ML Intern** at **DRDO** — Toxic gas classifier (XGBoost 95.02%)
+- 📄 **Published Researcher** — 2 ML papers
+- 🌟 **Microsoft Learn Student Ambassador**
+- 🏆 **Top-60 Finalist** — FHIR® Hackathon 2025
+- 🥇 **Amazon ML Challenge 2025** — Top 1200 National Rank
+- 🎓 UIET, MDU · 2022–2026
 
 </td>
-<td width="50%">
 
-**Data Science & ML Engineering**
-- XGBoost, LightGBM, Ensemble Methods
-- Feature Engineering & Selection
-- Hyperparameter Tuning
-- Production ML Pipeline Development
+<!-- ===== TECH STACK ===== -->
+<td valign="top" width="25%">
+
+### 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" title="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" title="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" title="SQL"/>
+
+**ML / DL**
+<br/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" title="PyTorch"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" title="TensorFlow"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" title="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" title="NumPy"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36" title="OpenCV"/>
+
+**NLP & LLMs**
+<br/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" title="HuggingFace"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="36" height="36" title="Jupyter"/>
+
+**Tools & Cloud**
+<br/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" title="Docker"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" height="36" title="AWS"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36" title="GCP"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" title="Linux"/>
+
+> *These stats are generated dynamically from my GitHub profile.*
+
+</td>
+
+<!-- ===== GITHUB STATS ===== -->
+<td valign="top" width="37%">
+
+### 📊 GitHub Stats
+
+**Streak Stats**
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-Deepanshu&hide_border=true&background=0a0e1a&ring=00d4ff&fire=3b82f6&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=00d4ff&sideNums=00d4ff&dates=94a3b8&short_numbers=true)](https://github.com/I-Deepanshu)
+
+**GitHub Stats**
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=I-Deepanshu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=3b82f6&text_color=94a3b8)](https://github.com/I-Deepanshu)
+
+**Top Languages**
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Deepanshu&layout=compact&langs_count=6&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=94a3b8)](https://github.com/I-Deepanshu)
 
 </td>
 </tr>
@@ -197,51 +114,106 @@ I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for b
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 Contribution Graph
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=I-Deepanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=I-Deepanshu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Deepanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=I-Deepanshu&bg_color=0a0e1a&color=00d4ff&line=3b82f6&point=ffffff&area=true&hide_border=true&area_color=1e3a5f)](https://github.com/I-Deepanshu)
+
+> *Building in public, one commit at a time ⚡*
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+### 🚀 Featured Projects
 
-- 🎖️ **Microsoft Learn Student Ambassador** - Recognized for technical leadership and community impact
-- 🥈 **Top-60 Finalist** - Predictive AI in Healthcare with FHIR® International Hackathon (2025)
-- 📖 **Published Researcher** - 2 ML research papers (Solar Panel & Fuel Cell Degradation Prediction)
-- 🔬 **Research Experience** - NIT Warangal & DRDO
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚖️ IPC & BNS Predictor — RAG Legal AI**
+> `LangChain` `FAISS` `Gemini 3.5 Flash` `HuggingFace`
+
+RAG system mapping FIRs to **500+ IPC / 350+ BNS** sections at **92% accuracy**. Cut manual review by **60%** and response time by **40%**.
+
+[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/deepanshu)
+
+</td>
+<td width="50%" valign="top">
+
+**📄 Rechk — AI Research Paper Classifier**
+> `BERT` `FastAPI` `Docker` `Gemini 3.5 Flash`
+
+End-to-end pipeline: ingestion → BERT quality (Q1–Q4) → grammar correction → plagiarism detection. **82.4% accuracy** on 1,350+ papers.
+
+[![Live](https://img.shields.io/badge/🌐%20Live-rechk.in-00d4ff?style=flat-square&logoColor=black)](https://rechk.in)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🥔 Potato Disease Detection**
+> `Swin` `MobileViT` `Grad-CAM` `Streamlit` `FastAPI`
+
+Benchmarked 7 transformer models on 717 leaf images. **97% accuracy** (Swin), **94.86%** (MobileViT, 5.6M params). Grad-CAM interpretability.
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 Amazon ML Challenge — Multimodal Price Prediction**
+> `PyTorch` `Qwen3` `DINOv2` `Cross-Attention`
+
+Cross-attention fusion of Qwen3 (text) + DINOv2 (vision). **Top 1200 national rank**, SMAPE 50–52% via 5-fold CV + ensemble stacking.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Working On
+### 📚 Research Publications
 
-- 🏥 **AI-Powered Cancer Detection Systems** - Multi-modal diagnosis for lung, skin, oral, and cervical cancer
-- 🧠 **Advanced Deep Learning** - Neural networks, image segmentation, and computer vision applications
-- 🚀 **Production ML Systems** - Scalable model deployment and MLOps best practices
-
----
-
-## 💡 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| # | Paper | Venue | |
+|---|-------|-------|-|
+| 1 | **Solar Panel Degradation Prediction using ML** — Stacked ANN, XGBoost & RF on 480-day UK PV data; best ensemble R² > 0.96 | ResearchSquare | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchsquare.com/article/rs-6297947/v1) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Solar-Panel-Degradation-Predictor) |
+| 2 | **Fuel Cell Degradation Prediction Using ML Models** — Extra Trees Regressor (MAE=0.00099, R²=0.996) on PEM Fuel Cell Dataset | ResearchGate | [![Paper](https://img.shields.io/badge/Paper-Read-00d4ff?style=flat-square&logoColor=black)](https://www.researchgate.net/publication/392034748_Fuel_Cell_Degradation_Prediction_Using_Machine_Learning_Models_A_Study_on_Proton_Exchange_Membrane_PEM_Fuel_Cell_Dataset) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor) |
 
 ---
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on ML/AI projects, research opportunities, and innovative tech solutions. Feel free to reach out!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:deepanshusnpt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepanshu-shimar-704633256)
-[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@deepanshusnpt)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=I-Deepanshu&icon=5&color=12)
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+💙 *Thanks for visiting my profile!*
+
+</td>
+<td align="center" width="34%">
+
+⚡ *Feel free to connect and collaborate.*
+
+</td>
+<td align="center" width="33%">
+
+🚀 *Keep learning, Keep growing.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=I-Deepanshu&icon=5&color=6)
 
 </div>
